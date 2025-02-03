@@ -576,7 +576,7 @@ export default {
             },
             {
               title:
-                "Example data endpoint <a class='text-primary' target='_blank' href='https://glancedata.herokuapp.com/pebble'>https://glancedata.herokuapp.com/pebble</a>",
+                "Example data endpoint: {URL}/pebble",
               img: null
             }
           ]
